@@ -1,0 +1,1 @@
+To run the code: java -cp '/Users/rajeshadhikari/Downloads/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar' InsertIntoTable.java
